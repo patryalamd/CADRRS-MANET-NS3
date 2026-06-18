@@ -1,0 +1,4433 @@
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+
+AODV BASELINE ACTIVE
+
+Stage 2.0 Baseline AODV Metrics Ready
+Node 0 IP : 10.1.1.1
+Node 1 IP : 10.1.1.2
+UDP Traffic Running
+
+Flow ID: 1
+Tx Packets: 219
+Rx Packets: 218
+PDR (%): 99.5434
+Throughput (kbps): 94.176
+Average Delay (s): 0.00804288
+
+Flow ID: 2
+Tx Packets: 219
+Rx Packets: 219
+PDR (%): 100
+Throughput (kbps): 94.608
+Average Delay (s): 0.00828075
+
+Flow ID: 3
+Tx Packets: 219
+Rx Packets: 18
+PDR (%): 8.21918
+Throughput (kbps): 7.776
+Average Delay (s): 0.0436771
+
+Flow ID: 4
+Tx Packets: 219
+Rx Packets: 218
+PDR (%): 99.5434
+Throughput (kbps): 94.176
+Average Delay (s): 0.0190884
+
+Flow ID: 5
+Tx Packets: 219
+Rx Packets: 218
+PDR (%): 99.5434
+Throughput (kbps): 94.176
+Average Delay (s): 0.0119863
+
+Flow ID: 6
+Tx Packets: 219
+Rx Packets: 217
+PDR (%): 99.0868
+Throughput (kbps): 93.744
+Average Delay (s): 0.00613183
+
+Flow ID: 7
+Tx Packets: 219
+Rx Packets: 211
+PDR (%): 96.347
+Throughput (kbps): 91.152
+Average Delay (s): 0.0245408
+
+Flow ID: 8
+Tx Packets: 219
+Rx Packets: 70
+PDR (%): 31.9635
+Throughput (kbps): 30.24
+Average Delay (s): 0.133377
+
+Flow ID: 9
+Tx Packets: 219
+Rx Packets: 213
+PDR (%): 97.2603
+Throughput (kbps): 92.016
+Average Delay (s): 0.0487174
+
+Flow ID: 10
+Tx Packets: 219
+Rx Packets: 215
+PDR (%): 98.1735
+Throughput (kbps): 92.88
+Average Delay (s): 0.0253738
+
+Flow ID: 11
+Tx Packets: 219
+Rx Packets: 219
+PDR (%): 100
+Throughput (kbps): 94.608
+Average Delay (s): 0.0104774
+
+Flow ID: 12
+Tx Packets: 219
+Rx Packets: 210
+PDR (%): 95.8904
+Throughput (kbps): 90.72
+Average Delay (s): 0.0631852
+
+Flow ID: 13
+Tx Packets: 219
+Rx Packets: 70
+PDR (%): 31.9635
+Throughput (kbps): 30.24
+Average Delay (s): 0.255536
+
+Flow ID: 14
+Tx Packets: 219
+Rx Packets: 160
+PDR (%): 73.0594
+Throughput (kbps): 69.12
+Average Delay (s): 0.144331
+
+Flow ID: 15
+Tx Packets: 219
+Rx Packets: 205
+PDR (%): 93.6073
+Throughput (kbps): 88.56
+Average Delay (s): 0.0716825
+
+Flow ID: 16
+Tx Packets: 219
+Rx Packets: 219
+PDR (%): 100
+Throughput (kbps): 94.608
+Average Delay (s): 0.0125981
+
+Flow ID: 17
+Tx Packets: 219
+Rx Packets: 211
+PDR (%): 96.347
+Throughput (kbps): 91.152
+Average Delay (s): 0.0546219
+
+Flow ID: 18
+Tx Packets: 219
+Rx Packets: 43
+PDR (%): 19.6347
+Throughput (kbps): 18.576
+Average Delay (s): 0.235101
+
+Flow ID: 19
+Tx Packets: 219
+Rx Packets: 219
+PDR (%): 100
+Throughput (kbps): 94.608
+Average Delay (s): 0.0160296
+
+Flow ID: 20
+Tx Packets: 219
+Rx Packets: 219
+PDR (%): 100
+Throughput (kbps): 94.608
+Average Delay (s): 0.0142821
+
+Flow ID: 21
+Tx Packets: 219
+Rx Packets: 1
+PDR (%): 0.456621
+Throughput (kbps): 0.432
+Average Delay (s): 0.0704988
+
+Flow ID: 22
+Tx Packets: 219
+Rx Packets: 219
+PDR (%): 100
+Throughput (kbps): 94.608
+Average Delay (s): 0.0118772
+
+Flow ID: 23
+Tx Packets: 219
+Rx Packets: 143
+PDR (%): 65.2968
+Throughput (kbps): 61.776
+Average Delay (s): 0.0402663
+
+Flow ID: 24
+Tx Packets: 219
+Rx Packets: 219
+PDR (%): 100
+Throughput (kbps): 94.608
+Average Delay (s): 0.0144922
+
+Flow ID: 25
+Tx Packets: 219
+Rx Packets: 216
+PDR (%): 98.6301
+Throughput (kbps): 93.312
+Average Delay (s): 0.0100894
+
+Flow ID: 26
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.216
+Average Delay (s): 0.0522765
+
+Flow ID: 27
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1392
+Average Delay (s): 0.074772
+
+Flow ID: 28
+Tx Packets: 9
+Rx Packets: 9
+PDR (%): 100
+Throughput (kbps): 0.3312
+Average Delay (s): 0.131114
+
+Flow ID: 29
+Tx Packets: 9
+Rx Packets: 9
+PDR (%): 100
+Throughput (kbps): 0.3264
+Average Delay (s): 0.0360911
+
+Flow ID: 30
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.994058
+
+Flow ID: 31
+Tx Packets: 11
+Rx Packets: 11
+PDR (%): 100
+Throughput (kbps): 0.4224
+Average Delay (s): 0.00628296
+
+Flow ID: 32
+Tx Packets: 7
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 33
+Tx Packets: 3
+Rx Packets: 2
+PDR (%): 66.6667
+Throughput (kbps): 0.0624
+Average Delay (s): 0.0103821
+
+Flow ID: 34
+Tx Packets: 10
+Rx Packets: 8
+PDR (%): 80
+Throughput (kbps): 0.2928
+Average Delay (s): 0.0787026
+
+Flow ID: 35
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.573777
+
+Flow ID: 36
+Tx Packets: 10
+Rx Packets: 8
+PDR (%): 80
+Throughput (kbps): 0.3072
+Average Delay (s): 0.0435492
+
+Flow ID: 37
+Tx Packets: 13
+Rx Packets: 12
+PDR (%): 92.3077
+Throughput (kbps): 0.4544
+Average Delay (s): 0.117789
+
+Flow ID: 38
+Tx Packets: 19
+Rx Packets: 19
+PDR (%): 100
+Throughput (kbps): 0.664
+Average Delay (s): 0.102808
+
+Flow ID: 39
+Tx Packets: 5
+Rx Packets: 4
+PDR (%): 80
+Throughput (kbps): 0.1536
+Average Delay (s): 0.266469
+
+Flow ID: 40
+Tx Packets: 6
+Rx Packets: 5
+PDR (%): 83.3333
+Throughput (kbps): 0.192
+Average Delay (s): 0.459977
+
+Flow ID: 41
+Tx Packets: 13
+Rx Packets: 13
+PDR (%): 100
+Throughput (kbps): 0.472
+Average Delay (s): 0.0765592
+
+Flow ID: 42
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.00847979
+
+Flow ID: 43
+Tx Packets: 16
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 44
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.2304
+Average Delay (s): 0.0050218
+
+Flow ID: 45
+Tx Packets: 21
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 46
+Tx Packets: 14
+Rx Packets: 14
+PDR (%): 100
+Throughput (kbps): 0.5184
+Average Delay (s): 0.143934
+
+Flow ID: 47
+Tx Packets: 12
+Rx Packets: 12
+PDR (%): 100
+Throughput (kbps): 0.4608
+Average Delay (s): 0.0132041
+
+Flow ID: 48
+Tx Packets: 6
+Rx Packets: 5
+PDR (%): 83.3333
+Throughput (kbps): 0.192
+Average Delay (s): 0.127284
+
+Flow ID: 49
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.3008
+Average Delay (s): 0.122029
+
+Flow ID: 50
+Tx Packets: 9
+Rx Packets: 8
+PDR (%): 88.8889
+Throughput (kbps): 0.3008
+Average Delay (s): 0.0176181
+
+Flow ID: 51
+Tx Packets: 10
+Rx Packets: 9
+PDR (%): 90
+Throughput (kbps): 0.3456
+Average Delay (s): 0.0151227
+
+Flow ID: 52
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 53
+Tx Packets: 44
+Rx Packets: 43
+PDR (%): 97.7273
+Throughput (kbps): 1.6448
+Average Delay (s): 0.0427358
+
+Flow ID: 54
+Tx Packets: 3
+Rx Packets: 2
+PDR (%): 66.6667
+Throughput (kbps): 0.0768
+Average Delay (s): 0.473521
+
+Flow ID: 55
+Tx Packets: 11
+Rx Packets: 11
+PDR (%): 100
+Throughput (kbps): 0.4672
+Average Delay (s): 0.0283799
+
+Flow ID: 56
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1856
+Average Delay (s): 0.0191079
+
+Flow ID: 57
+Tx Packets: 11
+Rx Packets: 10
+PDR (%): 90.9091
+Throughput (kbps): 0.384
+Average Delay (s): 0.13604
+
+Flow ID: 58
+Tx Packets: 10
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 59
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.496993
+
+Flow ID: 60
+Tx Packets: 10
+Rx Packets: 10
+PDR (%): 100
+Throughput (kbps): 0.384
+Average Delay (s): 0.0453161
+
+Flow ID: 61
+Tx Packets: 17
+Rx Packets: 17
+PDR (%): 100
+Throughput (kbps): 0.6176
+Average Delay (s): 0.102226
+
+Flow ID: 62
+Tx Packets: 6
+Rx Packets: 5
+PDR (%): 83.3333
+Throughput (kbps): 0.192
+Average Delay (s): 0.155049
+
+Flow ID: 63
+Tx Packets: 7
+Rx Packets: 6
+PDR (%): 85.7143
+Throughput (kbps): 0.2304
+Average Delay (s): 0.145957
+
+Flow ID: 64
+Tx Packets: 4
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 65
+Tx Packets: 22
+Rx Packets: 22
+PDR (%): 100
+Throughput (kbps): 0.8384
+Average Delay (s): 0.0823403
+
+Flow ID: 66
+Tx Packets: 18
+Rx Packets: 18
+PDR (%): 100
+Throughput (kbps): 0.664
+Average Delay (s): 0.01179
+
+Flow ID: 67
+Tx Packets: 10
+Rx Packets: 10
+PDR (%): 100
+Throughput (kbps): 0.3568
+Average Delay (s): 0.0270877
+
+Flow ID: 68
+Tx Packets: 11
+Rx Packets: 11
+PDR (%): 100
+Throughput (kbps): 0.416
+Average Delay (s): 0.0812448
+
+Flow ID: 69
+Tx Packets: 10
+Rx Packets: 9
+PDR (%): 90
+Throughput (kbps): 0.3312
+Average Delay (s): 0.0756935
+
+Flow ID: 70
+Tx Packets: 9
+Rx Packets: 9
+PDR (%): 100
+Throughput (kbps): 0.3248
+Average Delay (s): 0.00947507
+
+Flow ID: 71
+Tx Packets: 53
+Rx Packets: 52
+PDR (%): 98.1132
+Throughput (kbps): 1.9696
+Average Delay (s): 0.0362538
+
+Flow ID: 72
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1472
+Average Delay (s): 0.373311
+
+Flow ID: 73
+Tx Packets: 35
+Rx Packets: 29
+PDR (%): 82.8571
+Throughput (kbps): 1.1136
+Average Delay (s): 0.248821
+
+Flow ID: 74
+Tx Packets: 8
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 75
+Tx Packets: 15
+Rx Packets: 15
+PDR (%): 100
+Throughput (kbps): 0.5616
+Average Delay (s): 0.00973535
+
+Flow ID: 76
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1856
+Average Delay (s): 0.0400165
+
+Flow ID: 77
+Tx Packets: 18
+Rx Packets: 18
+PDR (%): 100
+Throughput (kbps): 0.6912
+Average Delay (s): 0.128763
+
+Flow ID: 78
+Tx Packets: 19
+Rx Packets: 14
+PDR (%): 73.6842
+Throughput (kbps): 0.5248
+Average Delay (s): 0.0324691
+
+Flow ID: 79
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0704
+Average Delay (s): 0.0302829
+
+Flow ID: 80
+Tx Packets: 22
+Rx Packets: 19
+PDR (%): 86.3636
+Throughput (kbps): 0.7296
+Average Delay (s): 0.054817
+
+Flow ID: 81
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.040751
+
+Flow ID: 82
+Tx Packets: 19
+Rx Packets: 19
+PDR (%): 100
+Throughput (kbps): 0.7152
+Average Delay (s): 0.00901212
+
+Flow ID: 83
+Tx Packets: 5
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 84
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.2096
+Average Delay (s): 0.0591669
+
+Flow ID: 85
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.072
+Average Delay (s): 0.00655837
+
+Flow ID: 86
+Tx Packets: 7
+Rx Packets: 5
+PDR (%): 71.4286
+Throughput (kbps): 0.12
+Average Delay (s): 0.0374036
+
+Flow ID: 87
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1712
+Average Delay (s): 0.0330949
+
+Flow ID: 88
+Tx Packets: 4
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 89
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1248
+Average Delay (s): 0.127444
+
+Flow ID: 90
+Tx Packets: 15
+Rx Packets: 13
+PDR (%): 86.6667
+Throughput (kbps): 0.4928
+Average Delay (s): 0.118102
+
+Flow ID: 91
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.2016
+Average Delay (s): 0.107891
+
+Flow ID: 92
+Tx Packets: 11
+Rx Packets: 11
+PDR (%): 100
+Throughput (kbps): 0.3936
+Average Delay (s): 0.0539652
+
+Flow ID: 93
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1856
+Average Delay (s): 0.0105658
+
+Flow ID: 94
+Tx Packets: 41
+Rx Packets: 41
+PDR (%): 100
+Throughput (kbps): 1.5264
+Average Delay (s): 0.0368006
+
+Flow ID: 95
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1008
+Average Delay (s): 0.0203504
+
+Flow ID: 96
+Tx Packets: 9
+Rx Packets: 8
+PDR (%): 88.8889
+Throughput (kbps): 0.3008
+Average Delay (s): 0.320146
+
+Flow ID: 97
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1392
+Average Delay (s): 0.0318673
+
+Flow ID: 98
+Tx Packets: 11
+Rx Packets: 10
+PDR (%): 90.9091
+Throughput (kbps): 0.3552
+Average Delay (s): 0.0850407
+
+Flow ID: 99
+Tx Packets: 17
+Rx Packets: 17
+PDR (%): 100
+Throughput (kbps): 0.5952
+Average Delay (s): 0.0898549
+
+Flow ID: 100
+Tx Packets: 10
+Rx Packets: 10
+PDR (%): 100
+Throughput (kbps): 0.384
+Average Delay (s): 0.01544
+
+Flow ID: 101
+Tx Packets: 8
+Rx Packets: 8
+PDR (%): 100
+Throughput (kbps): 0.2928
+Average Delay (s): 0.109834
+
+Flow ID: 102
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.192
+Average Delay (s): 0.0207941
+
+Flow ID: 103
+Tx Packets: 8
+Rx Packets: 7
+PDR (%): 87.5
+Throughput (kbps): 0.2256
+Average Delay (s): 0.135182
+
+Flow ID: 104
+Tx Packets: 8
+Rx Packets: 8
+PDR (%): 100
+Throughput (kbps): 0.2736
+Average Delay (s): 0.0837539
+
+Flow ID: 105
+Tx Packets: 18
+Rx Packets: 18
+PDR (%): 100
+Throughput (kbps): 0.6512
+Average Delay (s): 0.0162008
+
+Flow ID: 106
+Tx Packets: 17
+Rx Packets: 17
+PDR (%): 100
+Throughput (kbps): 0.616
+Average Delay (s): 0.0184772
+
+Flow ID: 107
+Tx Packets: 9
+Rx Packets: 8
+PDR (%): 88.8889
+Throughput (kbps): 0.2928
+Average Delay (s): 0.0423418
+
+Flow ID: 108
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.024
+Average Delay (s): 0.0698985
+
+Flow ID: 109
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.16925
+
+Flow ID: 110
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0304927
+
+Flow ID: 111
+Tx Packets: 9
+Rx Packets: 9
+PDR (%): 100
+Throughput (kbps): 0.3328
+Average Delay (s): 0.0234539
+
+Flow ID: 112
+Tx Packets: 15
+Rx Packets: 15
+PDR (%): 100
+Throughput (kbps): 0.5632
+Average Delay (s): 0.0786855
+
+Flow ID: 113
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 114
+Tx Packets: 3
+Rx Packets: 2
+PDR (%): 66.6667
+Throughput (kbps): 0.0768
+Average Delay (s): 1.71408
+
+Flow ID: 115
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.272957
+
+Flow ID: 116
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.00634866
+
+Flow ID: 117
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1392
+Average Delay (s): 0.554311
+
+Flow ID: 118
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.485797
+
+Flow ID: 119
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1632
+Average Delay (s): 0.0707749
+
+Flow ID: 120
+Tx Packets: 7
+Rx Packets: 6
+PDR (%): 85.7143
+Throughput (kbps): 0.2304
+Average Delay (s): 0.0976256
+
+Flow ID: 121
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0729485
+
+Flow ID: 122
+Tx Packets: 7
+Rx Packets: 6
+PDR (%): 85.7143
+Throughput (kbps): 0.224
+Average Delay (s): 0.0604762
+
+Flow ID: 123
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1008
+Average Delay (s): 0.0181505
+
+Flow ID: 124
+Tx Packets: 14
+Rx Packets: 14
+PDR (%): 100
+Throughput (kbps): 0.5184
+Average Delay (s): 0.0421177
+
+Flow ID: 125
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 126
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0290365
+
+Flow ID: 127
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0517403
+
+Flow ID: 128
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2624
+Average Delay (s): 0.122888
+
+Flow ID: 129
+Tx Packets: 3
+Rx Packets: 2
+PDR (%): 66.6667
+Throughput (kbps): 0.0768
+Average Delay (s): 1.43076
+
+Flow ID: 130
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1008
+Average Delay (s): 0.443811
+
+Flow ID: 131
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0307359
+
+Flow ID: 132
+Tx Packets: 5
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 133
+Tx Packets: 3
+Rx Packets: 2
+PDR (%): 66.6667
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0532272
+
+Flow ID: 134
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.288
+Average Delay (s): 0.190917
+
+Flow ID: 135
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2544
+Average Delay (s): 0.0428363
+
+Flow ID: 136
+Tx Packets: 6
+Rx Packets: 4
+PDR (%): 66.6667
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0995096
+
+Flow ID: 137
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1152
+Average Delay (s): 0.561865
+
+Flow ID: 138
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.2176
+Average Delay (s): 0.234661
+
+Flow ID: 139
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.224
+Average Delay (s): 0.00907749
+
+Flow ID: 140
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.485187
+
+Flow ID: 141
+Tx Packets: 8
+Rx Packets: 8
+PDR (%): 100
+Throughput (kbps): 0.32
+Average Delay (s): 0.146557
+
+Flow ID: 142
+Tx Packets: 5
+Rx Packets: 4
+PDR (%): 80
+Throughput (kbps): 0.1536
+Average Delay (s): 0.285457
+
+Flow ID: 143
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.248
+Average Delay (s): 0.020067
+
+Flow ID: 144
+Tx Packets: 20
+Rx Packets: 20
+PDR (%): 100
+Throughput (kbps): 0.7536
+Average Delay (s): 0.00454463
+
+Flow ID: 145
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.313547
+
+Flow ID: 146
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0236179
+
+Flow ID: 147
+Tx Packets: 9
+Rx Packets: 9
+PDR (%): 100
+Throughput (kbps): 0.3168
+Average Delay (s): 0.0242833
+
+Flow ID: 148
+Tx Packets: 15
+Rx Packets: 13
+PDR (%): 86.6667
+Throughput (kbps): 0.4544
+Average Delay (s): 0.209428
+
+Flow ID: 149
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1856
+Average Delay (s): 0.00742389
+
+Flow ID: 150
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0050564
+
+Flow ID: 151
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.224
+Average Delay (s): 0.00926307
+
+Flow ID: 152
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0448954
+
+Flow ID: 153
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1712
+Average Delay (s): 0.151965
+
+Flow ID: 154
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0764641
+
+Flow ID: 155
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1472
+Average Delay (s): 0.00744531
+
+Flow ID: 156
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0320444
+
+Flow ID: 157
+Tx Packets: 10
+Rx Packets: 9
+PDR (%): 90
+Throughput (kbps): 0.312
+Average Delay (s): 0.0967675
+
+Flow ID: 158
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0224451
+
+Flow ID: 159
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1856
+Average Delay (s): 0.231105
+
+Flow ID: 160
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 2.98977
+
+Flow ID: 161
+Tx Packets: 7
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 162
+Tx Packets: 18
+Rx Packets: 13
+PDR (%): 72.2222
+Throughput (kbps): 0.4864
+Average Delay (s): 0.0627741
+
+Flow ID: 163
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.048
+Average Delay (s): 0.0432405
+
+Flow ID: 164
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.024
+Average Delay (s): 0.0518138
+
+Flow ID: 165
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.085074
+
+Flow ID: 166
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1776
+Average Delay (s): 0.00671771
+
+Flow ID: 167
+Tx Packets: 18
+Rx Packets: 18
+PDR (%): 100
+Throughput (kbps): 0.664
+Average Delay (s): 0.124514
+
+Flow ID: 168
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.216
+Average Delay (s): 0.152679
+
+Flow ID: 169
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.192
+Average Delay (s): 0.0024476
+
+Flow ID: 170
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.0944
+Average Delay (s): 1.37054
+
+Flow ID: 171
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.381135
+
+Flow ID: 172
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.00681663
+
+Flow ID: 173
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1392
+Average Delay (s): 0.0467695
+
+Flow ID: 174
+Tx Packets: 5
+Rx Packets: 4
+PDR (%): 80
+Throughput (kbps): 0.1264
+Average Delay (s): 0.200177
+
+Flow ID: 175
+Tx Packets: 8
+Rx Packets: 8
+PDR (%): 100
+Throughput (kbps): 0.2752
+Average Delay (s): 0.0118671
+
+Flow ID: 176
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.5932
+
+Flow ID: 177
+Tx Packets: 10
+Rx Packets: 10
+PDR (%): 100
+Throughput (kbps): 0.384
+Average Delay (s): 0.00849531
+
+Flow ID: 178
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1088
+Average Delay (s): 0.431213
+
+Flow ID: 179
+Tx Packets: 8
+Rx Packets: 8
+PDR (%): 100
+Throughput (kbps): 0.288
+Average Delay (s): 0.0353182
+
+Flow ID: 180
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 1.60071
+
+Flow ID: 181
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1472
+Average Delay (s): 0.0413925
+
+Flow ID: 182
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 1.02437
+
+Flow ID: 183
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2416
+Average Delay (s): 0.0312858
+
+Flow ID: 184
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0469583
+
+Flow ID: 185
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1008
+Average Delay (s): 0.120736
+
+Flow ID: 186
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0157175
+
+Flow ID: 187
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.584149
+
+Flow ID: 188
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 2.41349
+
+Flow ID: 189
+Tx Packets: 14
+Rx Packets: 13
+PDR (%): 92.8571
+Throughput (kbps): 0.4928
+Average Delay (s): 0.0267855
+
+Flow ID: 190
+Tx Packets: 2
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 191
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.00753994
+
+Flow ID: 192
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0832
+Average Delay (s): 0.0466995
+
+Flow ID: 193
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1088
+Average Delay (s): 0.0241066
+
+Flow ID: 194
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2624
+Average Delay (s): 0.181208
+
+Flow ID: 195
+Tx Packets: 8
+Rx Packets: 8
+PDR (%): 100
+Throughput (kbps): 0.2944
+Average Delay (s): 0.20418
+
+Flow ID: 196
+Tx Packets: 5
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 197
+Tx Packets: 9
+Rx Packets: 9
+PDR (%): 100
+Throughput (kbps): 0.3248
+Average Delay (s): 0.0490327
+
+Flow ID: 198
+Tx Packets: 9
+Rx Packets: 7
+PDR (%): 77.7778
+Throughput (kbps): 0.2688
+Average Delay (s): 0.245115
+
+Flow ID: 199
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 200
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1776
+Average Delay (s): 0.0111112
+
+Flow ID: 201
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1104
+Average Delay (s): 0.0266108
+
+Flow ID: 202
+Tx Packets: 3
+Rx Packets: 1
+PDR (%): 33.3333
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0210231
+
+Flow ID: 203
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.0254762
+
+Flow ID: 204
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.0224221
+
+Flow ID: 205
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1008
+Average Delay (s): 0.0405
+
+Flow ID: 206
+Tx Packets: 5
+Rx Packets: 4
+PDR (%): 80
+Throughput (kbps): 0.1264
+Average Delay (s): 0.516487
+
+Flow ID: 207
+Tx Packets: 14
+Rx Packets: 13
+PDR (%): 92.8571
+Throughput (kbps): 0.4848
+Average Delay (s): 0.0493146
+
+Flow ID: 208
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.192
+Average Delay (s): 0.126111
+
+Flow ID: 209
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.192
+Average Delay (s): 0.172864
+
+Flow ID: 210
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.192
+Average Delay (s): 0.015854
+
+Flow ID: 211
+Tx Packets: 18
+Rx Packets: 9
+PDR (%): 50
+Throughput (kbps): 0.2944
+Average Delay (s): 0.116046
+
+Flow ID: 212
+Tx Packets: 24
+Rx Packets: 23
+PDR (%): 95.8333
+Throughput (kbps): 0.8624
+Average Delay (s): 0.0703059
+
+Flow ID: 213
+Tx Packets: 2
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 214
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0349389
+
+Flow ID: 215
+Tx Packets: 15
+Rx Packets: 15
+PDR (%): 100
+Throughput (kbps): 0.5696
+Average Delay (s): 0.00808222
+
+Flow ID: 216
+Tx Packets: 4
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 217
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1472
+Average Delay (s): 0.0118373
+
+Flow ID: 218
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.030137
+
+Flow ID: 219
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.248
+Average Delay (s): 0.0128182
+
+Flow ID: 220
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.2304
+Average Delay (s): 0.00927676
+
+Flow ID: 221
+Tx Packets: 8
+Rx Packets: 8
+PDR (%): 100
+Throughput (kbps): 0.3248
+Average Delay (s): 0.0233219
+
+Flow ID: 222
+Tx Packets: 8
+Rx Packets: 8
+PDR (%): 100
+Throughput (kbps): 0.3008
+Average Delay (s): 0.00925071
+
+Flow ID: 223
+Tx Packets: 12
+Rx Packets: 12
+PDR (%): 100
+Throughput (kbps): 0.448
+Average Delay (s): 0.0393574
+
+Flow ID: 224
+Tx Packets: 6
+Rx Packets: 5
+PDR (%): 83.3333
+Throughput (kbps): 0.1776
+Average Delay (s): 0.0419121
+
+Flow ID: 225
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2544
+Average Delay (s): 0.0786585
+
+Flow ID: 226
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.154562
+
+Flow ID: 227
+Tx Packets: 4
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 228
+Tx Packets: 2
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 229
+Tx Packets: 10
+Rx Packets: 10
+PDR (%): 100
+Throughput (kbps): 0.384
+Average Delay (s): 0.0326085
+
+Flow ID: 230
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.034971
+
+Flow ID: 231
+Tx Packets: 8
+Rx Packets: 5
+PDR (%): 62.5
+Throughput (kbps): 0.1856
+Average Delay (s): 0.559302
+
+Flow ID: 232
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0536775
+
+Flow ID: 233
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1152
+Average Delay (s): 0.240286
+
+Flow ID: 234
+Tx Packets: 15
+Rx Packets: 15
+PDR (%): 100
+Throughput (kbps): 0.5696
+Average Delay (s): 0.0198725
+
+Flow ID: 235
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1776
+Average Delay (s): 0.0154326
+
+Flow ID: 236
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.64306
+
+Flow ID: 237
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0113612
+
+Flow ID: 238
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0362517
+
+Flow ID: 239
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 240
+Tx Packets: 9
+Rx Packets: 7
+PDR (%): 77.7778
+Throughput (kbps): 0.2688
+Average Delay (s): 0.0357557
+
+Flow ID: 241
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.744061
+
+Flow ID: 242
+Tx Packets: 9
+Rx Packets: 5
+PDR (%): 55.5556
+Throughput (kbps): 0.1712
+Average Delay (s): 0.30035
+
+Flow ID: 243
+Tx Packets: 3
+Rx Packets: 1
+PDR (%): 33.3333
+Throughput (kbps): 0.024
+Average Delay (s): 1.36998
+
+Flow ID: 244
+Tx Packets: 12
+Rx Packets: 10
+PDR (%): 83.3333
+Throughput (kbps): 0.3776
+Average Delay (s): 0.0542171
+
+Flow ID: 245
+Tx Packets: 11
+Rx Packets: 11
+PDR (%): 100
+Throughput (kbps): 0.3872
+Average Delay (s): 0.0761972
+
+Flow ID: 246
+Tx Packets: 3
+Rx Packets: 2
+PDR (%): 66.6667
+Throughput (kbps): 0.0768
+Average Delay (s): 0.099511
+
+Flow ID: 247
+Tx Packets: 4
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 248
+Tx Packets: 18
+Rx Packets: 18
+PDR (%): 100
+Throughput (kbps): 0.6704
+Average Delay (s): 0.0481587
+
+Flow ID: 249
+Tx Packets: 9
+Rx Packets: 9
+PDR (%): 100
+Throughput (kbps): 0.3504
+Average Delay (s): 0.0382544
+
+Flow ID: 250
+Tx Packets: 9
+Rx Packets: 6
+PDR (%): 66.6667
+Throughput (kbps): 0.2432
+Average Delay (s): 0.0876009
+
+Flow ID: 251
+Tx Packets: 8
+Rx Packets: 8
+PDR (%): 100
+Throughput (kbps): 0.3072
+Average Delay (s): 0.0252888
+
+Flow ID: 252
+Tx Packets: 2
+Rx Packets: 1
+PDR (%): 50
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0178365
+
+Flow ID: 253
+Tx Packets: 6
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 254
+Tx Packets: 5
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 255
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0686722
+
+Flow ID: 256
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.00900407
+
+Flow ID: 257
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.0134263
+
+Flow ID: 258
+Tx Packets: 22
+Rx Packets: 22
+PDR (%): 100
+Throughput (kbps): 0.8176
+Average Delay (s): 0.00298401
+
+Flow ID: 259
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.2096
+Average Delay (s): 0.178072
+
+Flow ID: 260
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.2304
+Average Delay (s): 0.00264359
+
+Flow ID: 261
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0863059
+
+Flow ID: 262
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1392
+Average Delay (s): 0.00738801
+
+Flow ID: 263
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.0538156
+
+Flow ID: 264
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1392
+Average Delay (s): 0.008635
+
+Flow ID: 265
+Tx Packets: 12
+Rx Packets: 12
+PDR (%): 100
+Throughput (kbps): 0.4736
+Average Delay (s): 0.0548568
+
+Flow ID: 266
+Tx Packets: 12
+Rx Packets: 12
+PDR (%): 100
+Throughput (kbps): 0.44
+Average Delay (s): 0.0534796
+
+Flow ID: 267
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0508271
+
+Flow ID: 268
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0941146
+
+Flow ID: 269
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0105451
+
+Flow ID: 270
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0372715
+
+Flow ID: 271
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0382875
+
+Flow ID: 272
+Tx Packets: 10
+Rx Packets: 10
+PDR (%): 100
+Throughput (kbps): 0.3712
+Average Delay (s): 0.0261252
+
+Flow ID: 273
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1856
+Average Delay (s): 0.051376
+
+Flow ID: 274
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.113237
+
+Flow ID: 275
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1392
+Average Delay (s): 0.22491
+
+Flow ID: 276
+Tx Packets: 7
+Rx Packets: 3
+PDR (%): 42.8571
+Throughput (kbps): 0.1008
+Average Delay (s): 0.494987
+
+Flow ID: 277
+Tx Packets: 21
+Rx Packets: 21
+PDR (%): 100
+Throughput (kbps): 0.736
+Average Delay (s): 0.0538184
+
+Flow ID: 278
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 1.66294
+
+Flow ID: 279
+Tx Packets: 7
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 280
+Tx Packets: 13
+Rx Packets: 10
+PDR (%): 76.9231
+Throughput (kbps): 0.384
+Average Delay (s): 0.0712745
+
+Flow ID: 281
+Tx Packets: 12
+Rx Packets: 12
+PDR (%): 100
+Throughput (kbps): 0.4544
+Average Delay (s): 0.0293611
+
+Flow ID: 282
+Tx Packets: 8
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 283
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0004358
+
+Flow ID: 284
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1024
+Average Delay (s): 1.85298
+
+Flow ID: 285
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.159799
+
+Flow ID: 286
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.2304
+Average Delay (s): 0.0420147
+
+Flow ID: 287
+Tx Packets: 9
+Rx Packets: 9
+PDR (%): 100
+Throughput (kbps): 0.3328
+Average Delay (s): 0.1026
+
+Flow ID: 288
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1856
+Average Delay (s): 0.045742
+
+Flow ID: 289
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0398355
+
+Flow ID: 290
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 291
+Tx Packets: 6
+Rx Packets: 4
+PDR (%): 66.6667
+Throughput (kbps): 0.1408
+Average Delay (s): 0.576086
+
+Flow ID: 292
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0042191
+
+Flow ID: 293
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0358675
+
+Flow ID: 294
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1472
+Average Delay (s): 0.636311
+
+Flow ID: 295
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0468226
+
+Flow ID: 296
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0323746
+
+Flow ID: 297
+Tx Packets: 2
+Rx Packets: 1
+PDR (%): 50
+Throughput (kbps): 0.0384
+Average Delay (s): 0.000914147
+
+Flow ID: 298
+Tx Packets: 13
+Rx Packets: 13
+PDR (%): 100
+Throughput (kbps): 0.4864
+Average Delay (s): 0.120467
+
+Flow ID: 299
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0359919
+
+Flow ID: 300
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 301
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.192
+Average Delay (s): 0.0217662
+
+Flow ID: 302
+Tx Packets: 5
+Rx Packets: 4
+PDR (%): 80
+Throughput (kbps): 0.1392
+Average Delay (s): 0.0388974
+
+Flow ID: 303
+Tx Packets: 9
+Rx Packets: 5
+PDR (%): 55.5556
+Throughput (kbps): 0.1632
+Average Delay (s): 1.46112
+
+Flow ID: 304
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1008
+Average Delay (s): 0.175077
+
+Flow ID: 305
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2688
+Average Delay (s): 0.00737401
+
+Flow ID: 306
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.00634781
+
+Flow ID: 307
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.00653947
+
+Flow ID: 308
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1856
+Average Delay (s): 0.0658681
+
+Flow ID: 309
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.144511
+
+Flow ID: 310
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1472
+Average Delay (s): 0.0041537
+
+Flow ID: 311
+Tx Packets: 2
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 312
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.98793
+
+Flow ID: 313
+Tx Packets: 8
+Rx Packets: 8
+PDR (%): 100
+Throughput (kbps): 0.3072
+Average Delay (s): 0.251589
+
+Flow ID: 314
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.192
+Average Delay (s): 0.0242135
+
+Flow ID: 315
+Tx Packets: 9
+Rx Packets: 9
+PDR (%): 100
+Throughput (kbps): 0.3168
+Average Delay (s): 0.0428499
+
+Flow ID: 316
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.2304
+Average Delay (s): 0.0612302
+
+Flow ID: 317
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.400101
+
+Flow ID: 318
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.256
+Average Delay (s): 0.392439
+
+Flow ID: 319
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0900506
+
+Flow ID: 320
+Tx Packets: 4
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 321
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1152
+Average Delay (s): 0.128713
+
+Flow ID: 322
+Tx Packets: 3
+Rx Packets: 2
+PDR (%): 66.6667
+Throughput (kbps): 0.048
+Average Delay (s): 0.0105646
+
+Flow ID: 323
+Tx Packets: 6
+Rx Packets: 5
+PDR (%): 83.3333
+Throughput (kbps): 0.192
+Average Delay (s): 0.629168
+
+Flow ID: 324
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1856
+Average Delay (s): 0.206048
+
+Flow ID: 325
+Tx Packets: 2
+Rx Packets: 1
+PDR (%): 50
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0003041
+
+Flow ID: 326
+Tx Packets: 8
+Rx Packets: 7
+PDR (%): 87.5
+Throughput (kbps): 0.2688
+Average Delay (s): 0.0354736
+
+Flow ID: 327
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1088
+Average Delay (s): 0.060001
+
+Flow ID: 328
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2816
+Average Delay (s): 0.0464357
+
+Flow ID: 329
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0019163
+
+Flow ID: 330
+Tx Packets: 5
+Rx Packets: 4
+PDR (%): 80
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0127354
+
+Flow ID: 331
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2624
+Average Delay (s): 0.102145
+
+Flow ID: 332
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1008
+Average Delay (s): 0.00342773
+
+Flow ID: 333
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0167828
+
+Flow ID: 334
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2688
+Average Delay (s): 0.0291286
+
+Flow ID: 335
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.0864
+Average Delay (s): 0.0206622
+
+Flow ID: 336
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0221166
+
+Flow ID: 337
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0583333
+
+Flow ID: 338
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 339
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1104
+Average Delay (s): 0.0388696
+
+Flow ID: 340
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.608957
+
+Flow ID: 341
+Tx Packets: 2
+Rx Packets: 1
+PDR (%): 50
+Throughput (kbps): 0.024
+Average Delay (s): 0.00711493
+
+Flow ID: 342
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 343
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0146826
+
+Flow ID: 344
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.224
+Average Delay (s): 0.0291028
+
+Flow ID: 345
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.2112
+Average Delay (s): 0.03299
+
+Flow ID: 346
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0702157
+
+Flow ID: 347
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.024
+Average Delay (s): 0.103939
+
+Flow ID: 348
+Tx Packets: 12
+Rx Packets: 11
+PDR (%): 91.6667
+Throughput (kbps): 0.3968
+Average Delay (s): 0.247815
+
+Flow ID: 349
+Tx Packets: 7
+Rx Packets: 5
+PDR (%): 71.4286
+Throughput (kbps): 0.1568
+Average Delay (s): 0.0367746
+
+Flow ID: 350
+Tx Packets: 5
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 351
+Tx Packets: 2
+Rx Packets: 1
+PDR (%): 50
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0420657
+
+Flow ID: 352
+Tx Packets: 9
+Rx Packets: 9
+PDR (%): 100
+Throughput (kbps): 0.3376
+Average Delay (s): 0.0272678
+
+Flow ID: 353
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.929547
+
+Flow ID: 354
+Tx Packets: 12
+Rx Packets: 11
+PDR (%): 91.6667
+Throughput (kbps): 0.408
+Average Delay (s): 0.01044
+
+Flow ID: 355
+Tx Packets: 9
+Rx Packets: 7
+PDR (%): 77.7778
+Throughput (kbps): 0.2688
+Average Delay (s): 0.404569
+
+Flow ID: 356
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.239704
+
+Flow ID: 357
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.00132523
+
+Flow ID: 358
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.00703584
+
+Flow ID: 359
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0194922
+
+Flow ID: 360
+Tx Packets: 8
+Rx Packets: 8
+PDR (%): 100
+Throughput (kbps): 0.2864
+Average Delay (s): 0.0182702
+
+Flow ID: 361
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.024
+Average Delay (s): 0.203313
+
+Flow ID: 362
+Tx Packets: 12
+Rx Packets: 12
+PDR (%): 100
+Throughput (kbps): 0.4544
+Average Delay (s): 0.0933803
+
+Flow ID: 363
+Tx Packets: 18
+Rx Packets: 6
+PDR (%): 33.3333
+Throughput (kbps): 0.216
+Average Delay (s): 0.130499
+
+Flow ID: 364
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1776
+Average Delay (s): 0.0210832
+
+Flow ID: 365
+Tx Packets: 9
+Rx Packets: 7
+PDR (%): 77.7778
+Throughput (kbps): 0.2688
+Average Delay (s): 0.102713
+
+Flow ID: 366
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0345363
+
+Flow ID: 367
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 368
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0282879
+
+Flow ID: 369
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.0864
+Average Delay (s): 0.108852
+
+Flow ID: 370
+Tx Packets: 6
+Rx Packets: 5
+PDR (%): 83.3333
+Throughput (kbps): 0.1776
+Average Delay (s): 0.0395003
+
+Flow ID: 371
+Tx Packets: 6
+Rx Packets: 3
+PDR (%): 50
+Throughput (kbps): 0.1088
+Average Delay (s): 0.378835
+
+Flow ID: 372
+Tx Packets: 5
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 373
+Tx Packets: 6
+Rx Packets: 5
+PDR (%): 83.3333
+Throughput (kbps): 0.192
+Average Delay (s): 0.104629
+
+Flow ID: 374
+Tx Packets: 7
+Rx Packets: 5
+PDR (%): 71.4286
+Throughput (kbps): 0.192
+Average Delay (s): 0.0856934
+
+Flow ID: 375
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0485953
+
+Flow ID: 376
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.106012
+
+Flow ID: 377
+Tx Packets: 2
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 378
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 379
+Tx Packets: 4
+Rx Packets: 2
+PDR (%): 50
+Throughput (kbps): 0.0768
+Average Delay (s): 2.20008
+
+Flow ID: 380
+Tx Packets: 4
+Rx Packets: 2
+PDR (%): 50
+Throughput (kbps): 0.0768
+Average Delay (s): 0.450086
+
+Flow ID: 381
+Tx Packets: 2
+Rx Packets: 1
+PDR (%): 50
+Throughput (kbps): 0.0384
+Average Delay (s): 0.238738
+
+Flow ID: 382
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0158773
+
+Flow ID: 383
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.00661951
+
+Flow ID: 384
+Tx Packets: 11
+Rx Packets: 11
+PDR (%): 100
+Throughput (kbps): 0.4224
+Average Delay (s): 0.0245222
+
+Flow ID: 385
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.139982
+
+Flow ID: 386
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.00882886
+
+Flow ID: 387
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1856
+Average Delay (s): 0.135215
+
+Flow ID: 388
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 389
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0362448
+
+Flow ID: 390
+Tx Packets: 2
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 391
+Tx Packets: 9
+Rx Packets: 9
+PDR (%): 100
+Throughput (kbps): 0.3312
+Average Delay (s): 0.00524593
+
+Flow ID: 392
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0641055
+
+Flow ID: 393
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1152
+Average Delay (s): 0.00696029
+
+Flow ID: 394
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.226201
+
+Flow ID: 395
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.222295
+
+Flow ID: 396
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0754118
+
+Flow ID: 397
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2688
+Average Delay (s): 0.517543
+
+Flow ID: 398
+Tx Packets: 20
+Rx Packets: 20
+PDR (%): 100
+Throughput (kbps): 0.7488
+Average Delay (s): 0.00374882
+
+Flow ID: 399
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2496
+Average Delay (s): 0.00746937
+
+Flow ID: 400
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.00754105
+
+Flow ID: 401
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0207578
+
+Flow ID: 402
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0104622
+
+Flow ID: 403
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0704
+Average Delay (s): 0.0176589
+
+Flow ID: 404
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.0153779
+
+Flow ID: 405
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1392
+Average Delay (s): 0.00422832
+
+Flow ID: 406
+Tx Packets: 6
+Rx Packets: 5
+PDR (%): 83.3333
+Throughput (kbps): 0.1776
+Average Delay (s): 0.00981962
+
+Flow ID: 407
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.396499
+
+Flow ID: 408
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 2.89556
+
+Flow ID: 409
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 410
+Tx Packets: 6
+Rx Packets: 5
+PDR (%): 83.3333
+Throughput (kbps): 0.1776
+Average Delay (s): 0.0864963
+
+Flow ID: 411
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.1872
+Average Delay (s): 0.0375496
+
+Flow ID: 412
+Tx Packets: 16
+Rx Packets: 15
+PDR (%): 93.75
+Throughput (kbps): 0.5568
+Average Delay (s): 0.0105757
+
+Flow ID: 413
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1088
+Average Delay (s): 0.265928
+
+Flow ID: 414
+Tx Packets: 2
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 415
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0275047
+
+Flow ID: 416
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1328
+Average Delay (s): 0.0227838
+
+Flow ID: 417
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.119275
+
+Flow ID: 418
+Tx Packets: 6
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 419
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.00909641
+
+Flow ID: 420
+Tx Packets: 5
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 421
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.0487077
+
+Flow ID: 422
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.00995619
+
+Flow ID: 423
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.00199338
+
+Flow ID: 424
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.215785
+
+Flow ID: 425
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.103189
+
+Flow ID: 426
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0694033
+
+Flow ID: 427
+Tx Packets: 8
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 428
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.209034
+
+Flow ID: 429
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1008
+Average Delay (s): 0.0304068
+
+Flow ID: 430
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1776
+Average Delay (s): 0.0792337
+
+Flow ID: 431
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1152
+Average Delay (s): 0.174015
+
+Flow ID: 432
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 2.86357
+
+Flow ID: 433
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.123996
+
+Flow ID: 434
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.024
+Average Delay (s): 0.00887836
+
+Flow ID: 435
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1248
+Average Delay (s): 0.0214462
+
+Flow ID: 436
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1472
+Average Delay (s): 0.0262642
+
+Flow ID: 437
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.024
+Average Delay (s): 3.23731
+
+Flow ID: 438
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.200157
+
+Flow ID: 439
+Tx Packets: 7
+Rx Packets: 4
+PDR (%): 57.1429
+Throughput (kbps): 0.1536
+Average Delay (s): 1.38166
+
+Flow ID: 440
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0146139
+
+Flow ID: 441
+Tx Packets: 6
+Rx Packets: 4
+PDR (%): 66.6667
+Throughput (kbps): 0.1536
+Average Delay (s): 0.304696
+
+Flow ID: 442
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0299579
+
+Flow ID: 443
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0138697
+
+Flow ID: 444
+Tx Packets: 7
+Rx Packets: 6
+PDR (%): 85.7143
+Throughput (kbps): 0.2304
+Average Delay (s): 0.84004
+
+Flow ID: 445
+Tx Packets: 17
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 446
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1088
+Average Delay (s): 1.13007
+
+Flow ID: 447
+Tx Packets: 3
+Rx Packets: 2
+PDR (%): 66.6667
+Throughput (kbps): 0.0768
+Average Delay (s): 1.34941
+
+Flow ID: 448
+Tx Packets: 7
+Rx Packets: 6
+PDR (%): 85.7143
+Throughput (kbps): 0.2304
+Average Delay (s): 0.0285795
+
+Flow ID: 449
+Tx Packets: 8
+Rx Packets: 4
+PDR (%): 50
+Throughput (kbps): 0.1536
+Average Delay (s): 0.428606
+
+Flow ID: 450
+Tx Packets: 3
+Rx Packets: 2
+PDR (%): 66.6667
+Throughput (kbps): 0.0768
+Average Delay (s): 0.00714555
+
+Flow ID: 451
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.224
+Average Delay (s): 0.0210968
+
+Flow ID: 452
+Tx Packets: 6
+Rx Packets: 3
+PDR (%): 50
+Throughput (kbps): 0.1088
+Average Delay (s): 0.0776665
+
+Flow ID: 453
+Tx Packets: 7
+Rx Packets: 5
+PDR (%): 71.4286
+Throughput (kbps): 0.192
+Average Delay (s): 0.150345
+
+Flow ID: 454
+Tx Packets: 3
+Rx Packets: 2
+PDR (%): 66.6667
+Throughput (kbps): 0.0832
+Average Delay (s): 0.00878521
+
+Flow ID: 455
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 2.87052
+
+Flow ID: 456
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.975045
+
+Flow ID: 457
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1088
+Average Delay (s): 0.0568588
+
+Flow ID: 458
+Tx Packets: 6
+Rx Packets: 5
+PDR (%): 83.3333
+Throughput (kbps): 0.1856
+Average Delay (s): 0.474522
+
+Flow ID: 459
+Tx Packets: 18
+Rx Packets: 15
+PDR (%): 83.3333
+Throughput (kbps): 0.576
+Average Delay (s): 0.117255
+
+Flow ID: 460
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 461
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0801961
+
+Flow ID: 462
+Tx Packets: 4
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 463
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0154601
+
+Flow ID: 464
+Tx Packets: 8
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 465
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0643457
+
+Flow ID: 466
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 2.54568
+
+Flow ID: 467
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2752
+Average Delay (s): 0.116541
+
+Flow ID: 468
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2688
+Average Delay (s): 0.0108284
+
+Flow ID: 469
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.2304
+Average Delay (s): 0.145584
+
+Flow ID: 470
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 1.28505
+
+Flow ID: 471
+Tx Packets: 4
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 472
+Tx Packets: 5
+Rx Packets: 4
+PDR (%): 80
+Throughput (kbps): 0.1536
+Average Delay (s): 0.153138
+
+Flow ID: 473
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.335887
+
+Flow ID: 474
+Tx Packets: 2
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 475
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0580546
+
+Flow ID: 476
+Tx Packets: 7
+Rx Packets: 6
+PDR (%): 85.7143
+Throughput (kbps): 0.2304
+Average Delay (s): 0.152724
+
+Flow ID: 477
+Tx Packets: 6
+Rx Packets: 3
+PDR (%): 50
+Throughput (kbps): 0.1152
+Average Delay (s): 2.32492
+
+Flow ID: 478
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.00199323
+
+Flow ID: 479
+Tx Packets: 4
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 480
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.00486965
+
+Flow ID: 481
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.293469
+
+Flow ID: 482
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1152
+Average Delay (s): 0.845425
+
+Flow ID: 483
+Tx Packets: 10
+Rx Packets: 10
+PDR (%): 100
+Throughput (kbps): 0.3776
+Average Delay (s): 0.0355174
+
+Flow ID: 484
+Tx Packets: 12
+Rx Packets: 12
+PDR (%): 100
+Throughput (kbps): 0.4416
+Average Delay (s): 0.3698
+
+Flow ID: 485
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.00957959
+
+Flow ID: 486
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0340818
+
+Flow ID: 487
+Tx Packets: 2
+Rx Packets: 1
+PDR (%): 50
+Throughput (kbps): 0.0384
+Average Delay (s): 0.118403
+
+Flow ID: 488
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.024
+Average Delay (s): 0.0150408
+
+Flow ID: 489
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.024
+Average Delay (s): 0.0575705
+
+Flow ID: 490
+Tx Packets: 2
+Rx Packets: 1
+PDR (%): 50
+Throughput (kbps): 0.0384
+Average Delay (s): 0.069993
+
+Flow ID: 491
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.101315
+
+Flow ID: 492
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 1.11976
+
+Flow ID: 493
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.192
+Average Delay (s): 0.475535
+
+Flow ID: 494
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1088
+Average Delay (s): 0.235622
+
+Flow ID: 495
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.275513
+
+Flow ID: 496
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0932786
+
+Flow ID: 497
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.192
+Average Delay (s): 0.0808834
+
+Flow ID: 498
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.490648
+
+Flow ID: 499
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.270657
+
+Flow ID: 500
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0508501
+
+Flow ID: 501
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0241103
+
+Flow ID: 502
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1152
+Average Delay (s): 1.15653
+
+Flow ID: 503
+Tx Packets: 2
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 504
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.718431
+
+Flow ID: 505
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0147973
+
+Flow ID: 506
+Tx Packets: 22
+Rx Packets: 22
+PDR (%): 100
+Throughput (kbps): 0.7344
+Average Delay (s): 0.00293734
+
+Flow ID: 507
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.162473
+
+Flow ID: 508
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0212399
+
+Flow ID: 509
+Tx Packets: 6
+Rx Packets: 5
+PDR (%): 83.3333
+Throughput (kbps): 0.192
+Average Delay (s): 0.442339
+
+Flow ID: 510
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1152
+Average Delay (s): 1.96571
+
+Flow ID: 511
+Tx Packets: 2
+Rx Packets: 1
+PDR (%): 50
+Throughput (kbps): 0.024
+Average Delay (s): 1.29637
+
+Flow ID: 512
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2624
+Average Delay (s): 0.0595732
+
+Flow ID: 513
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0245933
+
+Flow ID: 514
+Tx Packets: 20
+Rx Packets: 17
+PDR (%): 85
+Throughput (kbps): 0.64
+Average Delay (s): 0.151695
+
+Flow ID: 515
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0287299
+
+Flow ID: 516
+Tx Packets: 6
+Rx Packets: 4
+PDR (%): 66.6667
+Throughput (kbps): 0.1536
+Average Delay (s): 0.415766
+
+Flow ID: 517
+Tx Packets: 5
+Rx Packets: 4
+PDR (%): 80
+Throughput (kbps): 0.1392
+Average Delay (s): 0.262985
+
+Flow ID: 518
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.109087
+
+Flow ID: 519
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.31172
+
+Flow ID: 520
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.142732
+
+Flow ID: 521
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 1.70503
+
+Flow ID: 522
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0141307
+
+Flow ID: 523
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 524
+Tx Packets: 5
+Rx Packets: 1
+PDR (%): 20
+Throughput (kbps): 0.0384
+Average Delay (s): 0.12184
+
+Flow ID: 525
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0330089
+
+Flow ID: 526
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.023499
+
+Flow ID: 527
+Tx Packets: 5
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 528
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.00103834
+
+Flow ID: 529
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0760337
+
+Flow ID: 530
+Tx Packets: 4
+Rx Packets: 1
+PDR (%): 25
+Throughput (kbps): 0.0384
+Average Delay (s): 2.00461
+
+Flow ID: 531
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.192
+Average Delay (s): 0.546132
+
+Flow ID: 532
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0456083
+
+Flow ID: 533
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0210173
+
+Flow ID: 534
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.401035
+
+Flow ID: 535
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0161307
+
+Flow ID: 536
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.991213
+
+Flow ID: 537
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.00797018
+
+Flow ID: 538
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0158646
+
+Flow ID: 539
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.121147
+
+Flow ID: 540
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.00507682
+
+Flow ID: 541
+Tx Packets: 8
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 542
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0421178
+
+Flow ID: 543
+Tx Packets: 3
+Rx Packets: 2
+PDR (%): 66.6667
+Throughput (kbps): 0.0704
+Average Delay (s): 0.0693172
+
+Flow ID: 544
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2688
+Average Delay (s): 0.0216134
+
+Flow ID: 545
+Tx Packets: 7
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 546
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.00532989
+
+Flow ID: 547
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.2304
+Average Delay (s): 0.019027
+
+Flow ID: 548
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.1856
+Average Delay (s): 0.00876799
+
+Flow ID: 549
+Tx Packets: 3
+Rx Packets: 2
+PDR (%): 66.6667
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0127267
+
+Flow ID: 550
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1152
+Average Delay (s): 0.169506
+
+Flow ID: 551
+Tx Packets: 2
+Rx Packets: 1
+PDR (%): 50
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0165947
+
+Flow ID: 552
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 1.16695
+
+Flow ID: 553
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0137595
+
+Flow ID: 554
+Tx Packets: 6
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 555
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.130508
+
+Flow ID: 556
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.00922649
+
+Flow ID: 557
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0704
+Average Delay (s): 1.69271
+
+Flow ID: 558
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0835915
+
+Flow ID: 559
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2688
+Average Delay (s): 0.0115952
+
+Flow ID: 560
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.212173
+
+Flow ID: 561
+Tx Packets: 14
+Rx Packets: 13
+PDR (%): 92.8571
+Throughput (kbps): 0.4352
+Average Delay (s): 0.369468
+
+Flow ID: 562
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0624
+Average Delay (s): 0.0736005
+
+Flow ID: 563
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.0869322
+
+Flow ID: 564
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.817381
+
+Flow ID: 565
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.056
+Average Delay (s): 0.0645501
+
+Flow ID: 566
+Tx Packets: 10
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 567
+Tx Packets: 4
+Rx Packets: 2
+PDR (%): 50
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0418675
+
+Flow ID: 568
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1344
+Average Delay (s): 0.00547377
+
+Flow ID: 569
+Tx Packets: 30
+Rx Packets: 16
+PDR (%): 53.3333
+Throughput (kbps): 0.608
+Average Delay (s): 0.58128
+
+Flow ID: 570
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 3.26679
+
+Flow ID: 571
+Tx Packets: 4
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 572
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0132152
+
+Flow ID: 573
+Tx Packets: 4
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 574
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.153256
+
+Flow ID: 575
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.645757
+
+Flow ID: 576
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0347188
+
+Flow ID: 577
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.00959696
+
+Flow ID: 578
+Tx Packets: 7
+Rx Packets: 7
+PDR (%): 100
+Throughput (kbps): 0.2624
+Average Delay (s): 0.0244323
+
+Flow ID: 579
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0121418
+
+Flow ID: 580
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.17311
+
+Flow ID: 581
+Tx Packets: 6
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 582
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.0223309
+
+Flow ID: 583
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.128
+Average Delay (s): 0.0548995
+
+Flow ID: 584
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.293009
+
+Flow ID: 585
+Tx Packets: 10
+Rx Packets: 10
+PDR (%): 100
+Throughput (kbps): 0.3776
+Average Delay (s): 0.00517933
+
+Flow ID: 586
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1008
+Average Delay (s): 0.00642559
+
+Flow ID: 587
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 588
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 589
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.00597935
+
+Flow ID: 590
+Tx Packets: 8
+Rx Packets: 7
+PDR (%): 87.5
+Throughput (kbps): 0.2624
+Average Delay (s): 0.101758
+
+Flow ID: 591
+Tx Packets: 9
+Rx Packets: 9
+PDR (%): 100
+Throughput (kbps): 0.3328
+Average Delay (s): 0.0638168
+
+Flow ID: 592
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.354329
+
+Flow ID: 593
+Tx Packets: 9
+Rx Packets: 9
+PDR (%): 100
+Throughput (kbps): 0.3392
+Average Delay (s): 0.0626632
+
+Flow ID: 594
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1536
+Average Delay (s): 0.0181238
+
+Flow ID: 595
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 596
+Tx Packets: 7
+Rx Packets: 5
+PDR (%): 71.4286
+Throughput (kbps): 0.192
+Average Delay (s): 0.141586
+
+Flow ID: 597
+Tx Packets: 6
+Rx Packets: 6
+PDR (%): 100
+Throughput (kbps): 0.2112
+Average Delay (s): 0.0874275
+
+Flow ID: 598
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.435087
+
+Flow ID: 599
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0171657
+
+Flow ID: 600
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0100724
+
+Flow ID: 601
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 602
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 1.00348
+
+Flow ID: 603
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 604
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 605
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 606
+Tx Packets: 3
+Rx Packets: 2
+PDR (%): 66.6667
+Throughput (kbps): 0.0768
+Average Delay (s): 0.104799
+
+Flow ID: 607
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 608
+Tx Packets: 9
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 609
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 1.06343
+
+Flow ID: 610
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.363161
+
+Flow ID: 611
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 612
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 1.61195
+
+Flow ID: 613
+Tx Packets: 6
+Rx Packets: 3
+PDR (%): 50
+Throughput (kbps): 0.1152
+Average Delay (s): 0.923057
+
+Flow ID: 614
+Tx Packets: 3
+Rx Packets: 3
+PDR (%): 100
+Throughput (kbps): 0.1152
+Average Delay (s): 0.12402
+
+Flow ID: 615
+Tx Packets: 22
+Rx Packets: 3
+PDR (%): 13.6364
+Throughput (kbps): 0.1152
+Average Delay (s): 0.852094
+
+Flow ID: 616
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.231945
+
+Flow ID: 617
+Tx Packets: 2
+Rx Packets: 1
+PDR (%): 50
+Throughput (kbps): 0.0384
+Average Delay (s): 0.86161
+
+Flow ID: 618
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.182425
+
+Flow ID: 619
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.155933
+
+Flow ID: 620
+Tx Packets: 4
+Rx Packets: 4
+PDR (%): 100
+Throughput (kbps): 0.1472
+Average Delay (s): 0.158236
+
+Flow ID: 621
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.024
+Average Delay (s): 0.0223696
+
+Flow ID: 622
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 623
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0402714
+
+Flow ID: 624
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0380362
+
+Flow ID: 625
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 626
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0704
+Average Delay (s): 0.0463727
+
+Flow ID: 627
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.00272417
+
+Flow ID: 628
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.024
+Average Delay (s): 0.0110047
+
+Flow ID: 629
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 630
+Tx Packets: 2
+Rx Packets: 2
+PDR (%): 100
+Throughput (kbps): 0.0768
+Average Delay (s): 0.731989
+
+Flow ID: 631
+Tx Packets: 2
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 632
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.0688702
+
+Flow ID: 633
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.049412
+
+Flow ID: 634
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 635
+Tx Packets: 3
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 636
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.170773
+
+Flow ID: 637
+Tx Packets: 5
+Rx Packets: 5
+PDR (%): 100
+Throughput (kbps): 0.192
+Average Delay (s): 0.00194814
+
+Flow ID: 638
+Tx Packets: 4
+Rx Packets: 3
+PDR (%): 75
+Throughput (kbps): 0.1152
+Average Delay (s): 0.275771
+
+Flow ID: 639
+Tx Packets: 2
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 640
+Tx Packets: 2
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+Flow ID: 641
+Tx Packets: 1
+Rx Packets: 1
+PDR (%): 100
+Throughput (kbps): 0.0384
+Average Delay (s): 0.125023
+
+Flow ID: 642
+Tx Packets: 1
+Rx Packets: 0
+PDR (%): 0
+Throughput (kbps): 0
+
+=========================
+AODV SUMMARY
+=========================
+Total Tx Packets : 8781
+Total Rx Packets : 7094
+Total Lost Packets : 1687
+PDR (%) : 80.7881
+Average Delay (s) : 0.227891
+Throughput (kbps) : 1996.56
